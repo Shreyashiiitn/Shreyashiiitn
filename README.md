@@ -3,7 +3,11 @@
 🚀 Final-year Computer Science student at IIIT Nagpur, passionate about building scalable backend systems, interactive frontends, and intelligent AI-powered applications.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Backend+Developer+%7C+Next.js+Enthusiast+%7C+MERN+Stack+Specialist;Competitive+Programmer+%7C+AI+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Shreyash+Rajurkar;Backend+Developer+%7C+Next.js+Enthusiast;MERN+Stack+Specialist+%7C+AI+Explorer;Competitive+Programmer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 </div>
 
 ---
