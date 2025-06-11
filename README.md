@@ -51,14 +51,6 @@ AI-powered anonymous feedback system. Used Zod for validation, Shadcn UI for des
 
 ---
 
-## 👨‍💻 Community Contributions
-
-💻 Core Member, **DotSlash Coding Club**  
-- Mentored 40+ students in **Winter of Code 2023 & 2024**
-- Led 20+ Codeforces/CodeChef post-contest discussions  
-- Promoted CP & DSA culture among peers
-
----
 
 ## 🔗 Let's Connect
 
@@ -70,7 +62,4 @@ AI-powered anonymous feedback system. Used Zod for validation, Shadcn UI for des
 - 🍽️ [CodeChef](https://www.codechef.com/users/shreyasshh07)
 - 🧩 [GeeksforGeeks](https://www.geeksforgeeks.org/user/shreyashrunu9/)
 
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
